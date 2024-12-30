@@ -1,3 +1,1 @@
-- 👋 Hi guys, I’m Tam, a software engineer. 
-- 👀 I’m interested in coding, travel, and photography.
-- 🌱 I’m currently learning IaC, AWS, and Frontend, especially in ReactJS.
+- 👋 Hi guys, I’m Kelvin 
